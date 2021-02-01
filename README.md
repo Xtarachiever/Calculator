@@ -2,7 +2,7 @@
 
 ## HOSTED - 
 
-#[Link](https://simple-calculator-site.netlify.app/)
+## [Link](https://simple-calculator-site.netlify.app/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
